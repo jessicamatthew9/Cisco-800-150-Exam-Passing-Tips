@@ -13,7 +13,7 @@ Key concepts & product positioning summaries
 
 Practice tests for self-assessment
 
-** Exam Overview:**
+**Exam Overview:**
 
 Exam Code: 800-150
 
