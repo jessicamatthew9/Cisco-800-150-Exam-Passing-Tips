@@ -3,7 +3,7 @@ Cisco 800-150 Exam Study Resources – PasscertHub Materials
 
 This repository provides high-quality study resources for the Cisco 800-150: Cisco SMB Product and Positioning Technical Overview exam, sourced and organized with reference to PasscertHub content.
 
-** What's Included:**
+**What's Included:**
 
  Updated exam questions & answers
 
